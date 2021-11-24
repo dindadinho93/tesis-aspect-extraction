@@ -1,0 +1,6 @@
+- Program ini dibuat secara sekuensial dimulai dari ASPECT EXTRACTION, TOPIC IDENTIFICATION, CATEGORY DETECTION, DAN SENTIMENT POLARITY
+- File main hanya untuk mengeksekusi program ASPECT EXTRACTION secara keseluruhan
+- file TOPIC IDENTIFICATION, CATEGORY DETECTION, DAN SENTIMENT dapat dieksekusi tanpa membutuhkan file main
+- method text pre-prosesing, utama berjalan sendiri-sendiri karena input dari file utama(main) bergantung pada hasil output preprosesing
+
+- data dataset dan word embedding terpisah dengan program karena ukuran data yang sangat besar
